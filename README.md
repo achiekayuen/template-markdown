@@ -1,48 +1,31 @@
-# (project name)
+# Achiek Ayuen
 
-<!-- describe your project -->
+<!--Github link-->
 
-## Getting Started
+(<https://github.com/achiekayuen>)
 
-<!-- a guide to using this repository -->
+<!--my Image-->
 
-1. `git clone git@github.com:HackYourFutureBelgium/<project-name>.git`
-2. `cd project-name`
-3. `npm install`
+![achiekayuen](https://avatars.githubusercontent.com/u/93641682?s=400&u=62cad30c016b454d3ff78fb229f3d73de0b7a9b2&v=4)
 
-## Code Quality Checks
+I'm an I.T enthusiast studying at **ITALANTA ACADEMY, KAKUMA** My big aspiration
+is to become a competent software developer with wide range in the following
+programming languages:
 
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Will lint the folder and file names in this repository to
-  make sure they match the repo conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository and
-  let you know if there are any style mistakes to fix.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
+<!--ordered lists-->
 
-## Continuous Integration (CI)
+- **Cascading Style sheet(CSS)**
+- **Javascript**
+- **C++**
+- **SQL**
 
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
+I also intend to develop the following _APPS_ :
 
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running `npm run lint:md` locally.
+<!--ordered list-->
 
-## Repo Setup
+1. E-LIBRARY
 
-- Give each member _write_ access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Turn on GitHub Actions
-- in the _Branches_ section of your repo's settings make sure:
-  - The repository
-    [requires a review](https://github.blog/2018-03-23-require-multiple-reviewers/)
-    before pull requests can be merged.
-  - The `master`/`main` branch must "_Require status checks to pass before
-    merging_"
-  - The `master`/`main` branch must "_Require require branches to be up to date
-    before merging_"
+2. TECH-SITE
+
+These Apps will serve as educational hubs to those who are willing to learn more
+about Software development as well as the general concept of **I.T**
